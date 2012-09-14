@@ -1,8 +1,8 @@
 ---------------------------------------------------------------
 			HTTP PROXY
 ---------------------------------------------------------------
-					       - Kshitij Prasad
-					       - Rohit Talwar
+Kshitij Prasad  https://github.com/kshitijiiith
+Rohit Talwar  https://github.com/rohit-talwar
 
 TCP based proxy web server
 
@@ -70,6 +70,6 @@ Consistent Objects-
 No Temporary files created as such
 
 The map gets destroyed and a new map is created when the user restarts the client program.
-The map contains the mapping information - i.e the knowledge about what file contains which url’s data
+The map contains the mapping information - i.e the knowledge about what file contains which urlï¿½s data
 
 The data can be interpreted by any browser.
